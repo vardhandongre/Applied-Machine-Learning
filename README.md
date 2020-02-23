@@ -1,4 +1,4 @@
-# Applied Machine Learning
+# Applied Machine Learning ( In Progress ) 
 Repository for Applied Machine Learning Problems
  
 ## 1. Support Vector Machine (R [ No Package/Library ])
@@ -19,3 +19,7 @@ take a small set of values, I used a Gaussian first then a multinomial model. Fo
 which take a small set of values, I use a multinomial model. Ignore the “absence” attribute.
 Estimate accuracy by cross-validation. There are 10 folds of data, excluding 15% of the data at random to serve as test data, The code reports the mean and standard deviation
 of the accuracy over these folds.
+
+## 4. Decision Forest For MNIST classification (Python [Pandas,Seaborn, sckit, matplotlib])
+Investigated classifying MNIST using a decision forest. Compared the following cases: untouched raw pixels and stretched
+bounding box raw pixels.
