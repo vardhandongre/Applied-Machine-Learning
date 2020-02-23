@@ -1,4 +1,4 @@
-# Applied Machine Learning ( In Progress ) 
+# Applied Machine Learning Spring 20 ( In Progress ) 
 Repository for Applied Machine Learning Problems
  
 ## 1. Support Vector Machine (R [ No Package/Library ])
