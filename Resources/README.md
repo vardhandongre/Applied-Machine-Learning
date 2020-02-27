@@ -23,3 +23,9 @@ MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) ( CS 
   * Power Method (PCA)
   * Adaboost (Bagging and Boosting)
   * BPTT (vanilla-RNN, LSTM, GRU)
+    * Ref: [1](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  
+#### Useful Online Content:
+  1. (https://machinelearningmastery.com/) 
+  2. (https://victorzhou.com/series/neural-networks-from-scratch) 
+  3. (http://karpathy.github.io/) 
