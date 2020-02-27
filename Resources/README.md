@@ -5,7 +5,13 @@ This folder contains some resources that I used for understanding this subject. 
   * [Forsyth, David. Applied Machine Learning. Springer International Publishing, 2019.](https://link.springer.com/book/10.1007/978-3-030-18114-7) ( CS 498 Applied Machine Learning )
   * [Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.](https://dl.acm.org/doi/book/10.5555/2380985)  ( CS 446 Machine Learning )
   * [Bishop, Christopher M. Pattern recognition and machine learning. springer, 2006.](https://cds.cern.ch/record/998831/files/9780387310732_TOC.pdf?source=post_page---------------------------) (Pdf) ( CS 446 Machine Learning )
-
+  * [Sutton, R.S. and Barto, A.G., 2018. Reinforcement learning: An introduction.
+MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) [Code](http://incompleteideas.net/book/code/code2nd.html)
+  
+#### Support Material 
+  * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) 
+    * [Python Companion](https://ses.library.usyd.edu.au/bitstream/handle/2123/21370/vmls-python-companion.pdf?sequence=3)
+  * [Probability and Statistics for Computer Science](https://www.springer.com/gp/book/9783319644097)
 
 #### Useful Algorithms:
 ( Not in particular order )
