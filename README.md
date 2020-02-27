@@ -21,10 +21,10 @@ on its attributes. It also produces a class-confusion matrix for this problem.
 Built and evaluated a naive Bayes classifier that predicts Mathematics scores from all attributes.
 For binary attributes, I used a binomial model. For the attributes described as “numeric” which
 take a small set of values, I used a Gaussian first then a multinomial model. For the attributes described as “nominal” 
-which take a small set of values, I use a multinomial model. Ignore the “absence” attribute.
-Estimate accuracy by cross-validation. There are 10 folds of data, excluding 15% of the data at random to serve as test data, The code reports the mean and standard deviation
+which take a small set of values, I use a multinomial model. Ignored the “absence” attribute.
+I have estimated the accuracy by cross-validation. There are 10 folds of data, which exclude 15% of the data at random to serve as test data, The code reports the mean and standard deviation
 of the accuracy over these folds.
 
 ## 4. Decision Forest For MNIST classification (Python [Pandas,Seaborn, sckit, matplotlib])
 Investigated classifying MNIST using a decision forest. Compared the following cases: untouched raw pixels and stretched
-bounding box raw pixels.
+bounding box raw pixels. 
