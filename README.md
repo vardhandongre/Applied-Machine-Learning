@@ -28,3 +28,6 @@ of the accuracy over these folds.
 ## 4. Decision Forest For MNIST classification (Python [Pandas,Seaborn, sckit, matplotlib])
 Investigated classifying MNIST using a decision forest. Compared the following cases: untouched raw pixels and stretched
 bounding box raw pixels. 
+
+## 5. Principal Component Analysis (Python [Seaborn, matplotlib, scipy, scikitlearn])
+Investigated the use of principal components to smooth data. Used the traditional 'Iris' dataset. Added a noise to the original data. For noise we added an independent sample from a normal distribution first then in second part a sample from a binomial distribution with a suitable threshold. For each value a plot of the mean-squared error between the original dataset and an expansion onto 1, 2, 3, and 4 principal components was generated to see the effects of PCA. 
