@@ -25,7 +25,7 @@ which take a small set of values, I use a multinomial model. Ignored the “abse
 I have estimated the accuracy by cross-validation. There are 10 folds of data, which exclude 15% of the data at random to serve as test data, The code reports the mean and standard deviation
 of the accuracy over these folds.
 
-## 4. Decision Forest For MNIST classification (Python [Pandas,Seaborn, sckit, matplotlib])
+## 4. Decision Forest For MNIST classification (Python [Pandas,Seaborn, scikit, matplotlib])
 Investigated classifying MNIST using a decision forest. Compared the following cases: untouched raw pixels and stretched
 bounding box raw pixels. 
 
