@@ -29,3 +29,4 @@ MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) ( CS 
   1. (https://machinelearningmastery.com/) 
   2. (https://victorzhou.com/series/neural-networks-from-scratch) 
   3. (http://karpathy.github.io/) 
+  4. (https://www.geeksforgeeks.org/sql-tutorial/)
