@@ -17,7 +17,7 @@ MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) ( CS 
 ( Not in particular order )
   * [Viterbi](https://en.wikipedia.org/wiki/Viterbi_algorithm) (HMM, GMM, Probabilistic Graphical Models)
     * Ref:[1](http://www.adeveloperdiary.com/data-science/machine-learning/implement-viterbi-algorithm-in-hidden-markov-model-using-python-and-r/) ;  [2](https://nbviewer.jupyter.org/gist/BenLangmead/7460513)
-  * Dynamic Programming ( Structured Prediction )
+  * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) ( Structured Prediction )
   * Policy Gradients: A2C, A3C (Reinforcement Learning)
   * Expectation-Maximization (GMM, HMM)
   * Power Method (PCA)
