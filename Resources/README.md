@@ -19,7 +19,7 @@ MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) ( CS 
     * Ref:[1](http://www.adeveloperdiary.com/data-science/machine-learning/implement-viterbi-algorithm-in-hidden-markov-model-using-python-and-r/) ;  [2](https://nbviewer.jupyter.org/gist/BenLangmead/7460513)
   * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) ( Structured Prediction )
   * Policy Gradients: A2C, A3C (Reinforcement Learning)
-  * Expectation-Maximization (GMM, HMM)
+  * [Expectation-Maximization](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) (GMM, HMM)
     * Ref: [1](https://zhiyzuo.github.io/EM/)
   * Power Method (PCA)
   * Adaboost (Bagging and Boosting)
