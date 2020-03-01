@@ -1,4 +1,4 @@
-This folder contains some resources that I used for understanding this subject. Some were recommended readings for courses I took at University of Illinois, Urbana-Champaign. 
+This page contains a collection of resources that I used for understanding this subject. Some were recommended readings for courses I took at University of Illinois, Urbana-Champaign. 
 
 #### Textbooks:
   * [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016](https://www.deeplearningbook.org/) (CS 547 Deep Learning)
