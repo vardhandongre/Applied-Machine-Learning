@@ -20,6 +20,7 @@ MIT press; Chapters 1 & 3.](http://incompleteideas.net/book/the-book.html) ( CS 
   * [Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) ( Structured Prediction )
   * Policy Gradients: A2C, A3C (Reinforcement Learning)
   * Expectation-Maximization (GMM, HMM)
+    * Ref: [1](https://zhiyzuo.github.io/EM/)
   * Power Method (PCA)
   * Adaboost (Bagging and Boosting)
   * BPTT (vanilla-RNN, LSTM, GRU)
