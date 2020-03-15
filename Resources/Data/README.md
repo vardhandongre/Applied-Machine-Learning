@@ -1,4 +1,4 @@
-# Resources for Data (Loading,prcessing,cleaning,augmenting)
+# Resources for Data (Loading, processing, cleaning, augmenting)
 
 ## Images
 
