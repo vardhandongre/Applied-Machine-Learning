@@ -9,5 +9,4 @@
 ## npy format
 
 ## Loading Data
-### Generate your data in parallel with PyTorch
-[Link 1](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+### [Generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
