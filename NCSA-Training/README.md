@@ -11,7 +11,8 @@
   * NLP, Chatbot development
 * XSEDE Workshops
 * NVIDIA-HAL-NCSA AI Hackathon 2020 
-  * Position: Rank 1 [Presentation](https://docs.google.com/presentation/d/1Z8NWa7d3i71DCaO3xTk0UDyqK2bhMog3C_FTIU87yS0/edit#slide=id.g650495d39d_0_927)
+  * Problem Description : [CLOUD DETECTION IN MODIS SATELLITE IMAGES](https://wiki.illinois.edu/wiki/display/~kindrtnk/Cloud+Detection+in+MODIS+Satellite+Images)
+  * Position: Our team achieved the Rank 1 for this project. [Presentation](https://docs.google.com/presentation/d/1Z8NWa7d3i71DCaO3xTk0UDyqK2bhMog3C_FTIU87yS0/edit#slide=id.g650495d39d_0_927) 
 
 Content Rights: NCSA Team
 
