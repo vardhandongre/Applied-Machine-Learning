@@ -1,9 +1,10 @@
 # Resources for Data (Loading, processing, cleaning, augmenting)
 
 ## Images
- * [MNIST](http://yann.lecun.com/exdb/mnist/)(ubyte format)
+ * [MNIST](http://yann.lecun.com/exdb/mnist/) (ubyte format)
    * Reader code: [code]()
- * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
+ * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)  (pickle format)
+   * Reader code: On the webpage
  * [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
  * [Caltech 101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
  * [Imagenet](http://www.image-net.org/)
