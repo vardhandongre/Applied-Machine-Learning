@@ -31,3 +31,6 @@ bounding box raw pixels.
 
 ## 5. Principal Component Analysis (Python [Seaborn, matplotlib, scipy, scikitlearn])
 Investigated the use of principal components to smooth data. Used the traditional 'Iris' dataset. Added a noise to the original data. For noise we added an independent sample from a normal distribution first then in second part a sample from a binomial distribution with a suitable threshold. For each value a plot of the mean-squared error between the original dataset and an expansion onto 1, 2, 3, and 4 principal components was generated to see the effects of PCA. 
+
+## 6. Image Quantization (Python, scikit-learn)
+Image Quantization is is a lossy compression technique achieved by compressing a range of values to a single quantum value. Color quantization reduces the number of colors used in an image; this is important for displaying images on devices that support a limited number of colors and for efficiently compressing certain kinds of images.  
