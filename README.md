@@ -5,6 +5,8 @@ January 2019 - Present
 
 
 Repository for Applied Machine Learning Problems
+
+### Some of the content in this repo is a part of coursework please use it without breaking the University Honor Code
  
 ## 1. Support Vector Machine (R [ No Package/Library ])
 A program to train a support vector machine on the data using stochastic gradient descent without the use of any 
