@@ -1,5 +1,5 @@
 # National Center for Supercomputing Applications: Training Programs
-I have been a participant in these training and competetive programs organized by NCSA 
+I have been a participant in these training and competitive programs organized by NCSA 
 
 * Petascale Training Institute (2019)
   * OpenAcc
