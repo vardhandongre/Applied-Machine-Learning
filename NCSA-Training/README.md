@@ -1,4 +1,4 @@
-# National Center for Supercomputing Applications: Training Programs
+# National Center for Supercomputing Applications: Training Programs & Hackathons
 I have been a participant in these training and competitive programs organized by NCSA 
 
 * Petascale Training Institute (2019)
