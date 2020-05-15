@@ -44,3 +44,9 @@ the pixel (color, texture, etc.) into k clusters. Then each pixel is assigned to
 ## 8. Using Variational Inference for Boltzmann Machine to denoise Binary Images (Python, scipy)
 Binarize the first 500 images of the MNIST training data by mapping any value below .5 to -1 and any value above to 1. For each image, create a noisy version by randomly flipping 2% of the bits. Now denoise each image using a Boltzmann machine model and mean field inference. Use theta_{ij}=0.2 for the H_i, H_j terms and theta_{ij}=0.5 for the H_i, X_j terms. Report the fraction of all pixels that are correct in the 500 images.
 
+## 9. Neural Network for Classification (Python, scipy)
+Develop a classifier for your chosen programming framework, and train and run a classifier using that code. The structure of the network for is given to you to build that network. This isn’t a super good classifier; the point of the exercise is being able to translate a description of a network to an instance. Use the standard test–train split, and train with straightforward stochastic gradient descent. Choose a minibatch size that works for this example and your hardware. Use the MNIST dataset. 
+
+## 10. Adversarial Example 
+For your network of previous part, construct one adversarial example for each digit (0-9). This adversarial example should have the property that (a) it is close to the original digit and (b) it is misclassified as the next digit. So, for example, you should take a 0 and adjust it slightly so that it is classified as a 1; and so on. 
+
