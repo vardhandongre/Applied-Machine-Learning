@@ -1,5 +1,5 @@
-# Applied Machine Learning ( In Progress )  
-January 2019 - Present 
+# Applied Machine Learning   
+January 2019 - May 2020
   * National Center for Supercomputing Application (Training/Conference/Workshops)
   * Coursework: CS 498 (4 credits)
 
